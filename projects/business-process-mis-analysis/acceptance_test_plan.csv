@@ -1,0 +1,13 @@
+test_id,requirement_id,test_scenario,expected_result,test_type,status
+AT-001,REQ-001,Submit a standard request with the service address blank,"Submission is blocked and the missing field is identified.",Functional,Planned
+AT-002,REQ-002,Create two valid requests in sequence,"Each request receives a different immutable request ID.",Functional,Planned
+AT-003,REQ-003,Submit a high-priority access request,"The request appears in the high-priority coordinator queue within one minute.",Integration,Planned
+AT-004,REQ-004,Remove the owner from an active request,"The system blocks the change or reassigns the request within the configured interval.",Functional,Planned
+AT-005,REQ-005,Attempt to schedule a request without verified contact information,"The status change is blocked and missing information is displayed.",Functional,Planned
+AT-006,REQ-006,Submit a valid web request,"A confirmation containing the correct request ID and next step is logged.",Integration,Planned
+AT-007,REQ-007,Change a request from Scheduled to Rescheduled,"The configured customer notification and audit entry are created.",Integration,Planned
+AT-008,REQ-008,Open an assigned request as a technician,"One job summary displays all approved service and access fields.",User acceptance,Planned
+AT-009,REQ-009,Load the dashboard using a controlled test dataset,"Displayed KPIs match independently calculated expected values.",Data validation,Planned
+AT-010,REQ-010,Attempt to open administrative settings as a technician,"Access is denied and the attempt is handled according to security policy.",Security,Planned
+AT-011,REQ-011,Measure 100 representative request and queue page loads,"At least 95 loads complete within three seconds.",Performance,Planned
+AT-012,REQ-012,Change status, owner, schedule, and priority,"The audit history records user, timestamp, and before-and-after values for each change.",Audit,Planned
