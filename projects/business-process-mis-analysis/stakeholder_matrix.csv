@@ -1,0 +1,7 @@
+stakeholder,role_in_process,primary_need,influence,impact,engagement_approach
+Customer,Submits request and receives service,"Simple intake, confirmation, and reliable updates",Medium,High,"Usability testing and notification feedback"
+Customer Service Representative,Captures and updates requests,"Fast standardized intake and clear next steps",High,High,"Workflow workshops, pilot training, and daily issue review"
+Scheduling Coordinator,Validates and schedules work,"Complete information, prioritized queue, and exception visibility",High,High,"Requirements sessions, prototype review, and pilot ownership"
+Field Technician,Performs assigned service,"Accurate job details and simple completion updates",Medium,High,"Mobile-view testing and structured pilot feedback"
+Operations Manager,Owns service performance,"Reliable workload, cycle-time, quality, and service-level reporting",High,High,"KPI validation and weekly steering review"
+System Administrator,Supports configuration and access,"Maintainable rules, secure roles, and auditable changes",High,Medium,"Configuration review, security testing, and support handoff"
