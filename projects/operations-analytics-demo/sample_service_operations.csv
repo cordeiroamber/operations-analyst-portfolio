@@ -1,0 +1,13 @@
+request_id,category,priority,opened_date,due_date,closed_date,status,first_contact_resolution,satisfaction_score
+SR-1001,Billing,High,2026-07-01,2026-07-03,2026-07-02,Closed,Yes,5
+SR-1002,Account Access,High,2026-07-01,2026-07-02,2026-07-04,Closed,No,3
+SR-1003,Product Question,Normal,2026-07-02,2026-07-06,2026-07-03,Closed,Yes,5
+SR-1004,Billing,Normal,2026-07-03,2026-07-07,2026-07-08,Closed,No,2
+SR-1005,Technical Issue,High,2026-07-04,2026-07-06,2026-07-06,Closed,No,4
+SR-1006,Product Question,Normal,2026-07-05,2026-07-09,2026-07-05,Closed,Yes,4
+SR-1007,Account Access,High,2026-07-06,2026-07-07,2026-07-07,Closed,Yes,5
+SR-1008,Technical Issue,Normal,2026-07-07,2026-07-11,2026-07-13,Closed,No,3
+SR-1009,Billing,Normal,2026-07-08,2026-07-12,2026-07-10,Closed,Yes,4
+SR-1010,Product Question,Low,2026-07-09,2026-07-15,2026-07-11,Closed,Yes,5
+SR-1011,Technical Issue,High,2026-07-10,2026-07-12,,Open,No,
+SR-1012,Account Access,Normal,2026-07-11,2026-07-15,2026-07-14,Closed,Yes,4
