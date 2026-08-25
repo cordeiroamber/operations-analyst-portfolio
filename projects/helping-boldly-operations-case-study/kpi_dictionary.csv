@@ -1,0 +1,5 @@
+kpi_name,business_question,definition,data_needed,reporting_frequency,status
+Resource production cycle time,How quickly are resources developed?,Days from approved concept to published resource,Concept approval date and publish date,Monthly,Suggested
+Storefront conversion rate,How effectively does traffic convert?,Purchases divided by eligible storefront sessions,Session and order counts,Monthly,Suggested
+Support response time,How quickly are customer questions answered?,Average time from request receipt to first response,Request and response timestamps,Weekly,Suggested
+Access-issue rate,How often do customers report access problems?,Access-related requests divided by completed orders,Support category and order count,Monthly,Suggested
