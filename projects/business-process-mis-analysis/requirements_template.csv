@@ -1,0 +1,4 @@
+requirement_id,stakeholder,current_issue,proposed_requirement,priority,acceptance_measure,status
+REQ-001,[Stakeholder],[Describe the verified process issue],[State what the future process or system must do],High,[Define an observable acceptance measure],Draft
+REQ-002,[Stakeholder],[Describe the verified process issue],[State what the future process or system must do],Medium,[Define an observable acceptance measure],Draft
+REQ-003,[Stakeholder],[Describe the verified process issue],[State what the future process or system must do],Low,[Define an observable acceptance measure],Draft
